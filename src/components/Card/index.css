@@ -1,0 +1,26 @@
+.card-div {
+    width: 175px;
+    font-size: 12px;
+}
+
+.card-image {
+    width: 100%;
+    border-radius: 9px;
+}
+
+.bold {
+    font-weight: bold;
+}
+
+.grey {
+    color: #918E9B;
+}
+
+.card-stats {
+    display: flex;
+    align-items: center;
+}
+
+.card-star {
+    height: 14px;
+}
