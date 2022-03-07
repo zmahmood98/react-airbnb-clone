@@ -1,1 +1,23 @@
+section {
+    padding: 30px;
+}
 
+.hero-image {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 100vw;
+}
+
+.hero {
+    display: flex;
+    flex-direction: column;
+}
+.hero-header {
+    margin-bottom: 0px;
+    font-size: 32px;
+}
+
+.hero-text {
+    margin-top: 0;
+}
