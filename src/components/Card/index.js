@@ -18,6 +18,7 @@ export default function Card(props) {
                 <img src={require("../../images/star.png")} className="card-star" />
                 <span>{props.rating}</span>
                 <span className="grey">({props.reviewCount}) • </span>
+                <span className="gray">{props.location}</span>
                 <span className="grey">{props.country}</span>
             </div>
             <p className="card-title">{props.title}</p>
